@@ -1,0 +1,8 @@
+{
+	"devDependencies": {
+		"bluebird": "^3.5.4",
+		"chakram": "^1.5.0",
+		"form-urlencoded": "^3.0.0",
+		"mocha": "^6.1.4"
+	}
+}
